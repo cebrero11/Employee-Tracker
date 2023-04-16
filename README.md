@@ -39,7 +39,12 @@ N/A
 
 ## Contributing 
  
-N/A 
+N/A
+
+## Video 
+
+ [employeeTracker.webm](https://user-images.githubusercontent.com/43153891/232263793-ba31a09d-9bf0-4461-8437-f3d3aa7bc3df.webm)
+
  
 ## License 
 
